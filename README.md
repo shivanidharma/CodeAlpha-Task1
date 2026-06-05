@@ -16,6 +16,7 @@ A simple Python desktop application that translates text between 24 languages us
 * Python
 * Tkinter
 * Deep Translator
+  
  How It Works
 1. Enter text in the input box.
 2. Select source language (or Auto Detect).
